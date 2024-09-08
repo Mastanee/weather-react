@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+.button {
+  background-color: #5e75ee;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 16px 40px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.input {
+  background-color: white;
+  color: gray;
+  border-color: #5e75ee;
+  border-radius: 8px;
+  padding: 16px 40px 16px 8px;
+  font-size: 16px;
+  margin-right: 24px;
+}
+li {
+  list-style: none;
+  color: gray;
+}
+h1 {
+  text-align: center;
+  color: #5e75ee;
+}
+form {
+  text-align: center;
+}
