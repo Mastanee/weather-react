@@ -10,6 +10,21 @@ root.render(
   <React.StrictMode>
     <h1>Weather App</h1>
     <App />
+    <p>
+      This project was coded by{" "}
+      <a href="https://www.shecodes.io/" alt="shecodes website">
+        SheCodes
+      </a>{" "}
+      and is open-sourced on{" "}
+      <a href="https://github.com/Mastanee/weather-react" alt="github website">
+        GitHub
+      </a>{" "}
+      and hosted on{" "}
+      <a href="https://glittering-sawine-f17b18.netlify.app" alt="Netlify">
+        Netlify
+      </a>
+      .
+    </p>
   </React.StrictMode>
 );
 

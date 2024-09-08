@@ -1,6 +1,14 @@
 .App {
   text-align: center;
 }
+p {
+  text-align: center;
+  font-size: 12px;
+}
+a {
+  color: #5e75ee;
+  text-decoration: none;
+}
 .button {
   background-color: #5e75ee;
   color: white;
